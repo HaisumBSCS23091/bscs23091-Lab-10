@@ -2,15 +2,16 @@ nav a{
 
     margin: 10x;
     text-decoration: none;
-    padding: 2%;
-    color:red;
+    padding: 1%;
+    color:green;
+
 
 }
 nav{
     width: 100%;
     text-align: center;
     padding: 1%;
-    background-color: black
+    background-color: black        
 }
 img{
     border-radius: 50%;
