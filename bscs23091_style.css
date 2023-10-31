@@ -1,0 +1,33 @@
+nav a{
+
+    margin: 10x;
+    text-decoration: none;
+    padding: 1%;
+    color:red;
+
+}
+nav{
+    width: 100%;
+    text-align: center;
+    padding: 1%;
+    background-color: black
+}
+img{
+    border-radius: 50%;
+    margin: 1%;
+    width: 400px;
+    height: 350px;
+    border-width: 15px;
+    border: 13px solid;
+    border-color:rgb(255, 51, 0);
+}
+p{
+    font-family:'Courier New';
+    font-size: 20px;
+    border-width: 10px;
+    border-color: blue;
+    background-color:aquamarine;
+}
+h1{
+    font-family: 'Georgia';
+}
