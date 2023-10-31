@@ -22,12 +22,12 @@ img{
     border-color:rgb(255, 51, 0);
 }
 p{
-    font-family:'Arial';
+    font-family:Arial;
     font-size: 20px;
     border-width: 10px;
-    border-color: blue;
-    background-color:aquamarine;
+    border-color: red;
+    background-color:green;
 }
 h1{
-    font-family: 'Georgia';
+    font-family: Calibri;
 }
